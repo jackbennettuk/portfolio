@@ -1,0 +1,11 @@
+body {
+    background-color: var(--col-blue);
+    overflow: hidden;
+}
+img {
+    width: 200px;
+}
+#logo-holder {
+    height: 100%;
+    width: 100%;
+}

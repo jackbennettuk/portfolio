@@ -1,0 +1,31 @@
+/* IMPORT ALL FONTS */
+/* Bungee (400) */ @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+/* Roboto Mono (400, 700) */ @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+/* Work Sans (400, 600) */ @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap');
+
+/* GLOBAL VARIABLES */
+:root {
+    --col-blue: #0066b6;
+    --col-white: #f2f2f2;
+    --col-black: #17282e;
+    --col-cyan: #008ab6;
+
+    --fnt-title: font-family: "Bungee", cursive;
+    --fnt-main: font-family: 'Work Sans', sans-serif;
+    --fnt-alt: font-family: 'Roboto Mono', monospace;
+}
+
+/* GLOBAL RULESETS */
+body {
+    margin: 0;
+    padding: 0;
+
+    width: 100vw;
+    height: 100vh;
+}
+.centered {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}

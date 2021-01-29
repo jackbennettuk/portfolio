@@ -1,0 +1,12 @@
+---- COLOUR CODES ----
+Blue: #0066b6
+White: #f2f2f2
+Black: #17282e
+
+Link colour: #008ab6
+
+---- FONT FAMILIES ----
+Titles: Bungee
+Headers: Work Sans (bold)
+Body: Work Sans
+Alternative: Roboto Mono
